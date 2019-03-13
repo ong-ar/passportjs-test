@@ -1,0 +1,14 @@
+{
+  "name": "express-middle-ware",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": "https://github.com/ong-ar/express-middleware-test.git",
+  "author": "ong-ar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "@types/express": "^4.16.1"
+  }
+}
