@@ -1,6 +1,6 @@
 import * as express from "express";
 
-const app = express();
+const app: express.Application = express();
 
 interface Request extends express.Request {
   requestTime?: String | Number;
