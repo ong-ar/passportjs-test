@@ -6,7 +6,10 @@
   "author": "ong-ar",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.16.4"
+    "@types/passport-facebook": "^2.1.8",
+    "express": "^4.16.4",
+    "passport": "^0.4.0",
+    "passport-facebook": "^3.0.0"
   },
   "devDependencies": {
     "@types/express": "^4.16.1",
